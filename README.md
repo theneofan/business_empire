@@ -1,5 +1,3 @@
-# business_empire
-
 # Project Overview: Business Empire Strategy Database
 # Project Title: SQL Database for Optimal Strategy Search and Financial System Analysis in Business Empire
 # Project Summary:
