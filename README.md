@@ -53,7 +53,7 @@ The Business Empire Strategy and Financial System Database will empower players 
 
 # Community Support
 To help us out you can download the spreadsheet and sql files and help modify, upgrade and fill in all the tables. Alternatively, if you wish to create/modify the UI element of this project you are more than welcome to.
-Once you have created your clones of the documents and modified them re-download them as a .zip file and create a pull request with them or upload them to the [Google Classroom](https://classroom.google.com/c/NjE0NjkzNDI5OTEw?cjc=3h2jjpj)
+Once you have created your clones of the documents and modified them re-download them as a .zip file and create a pull request with them or upload them to the [Google Classroom](https://classroom.google.com/c/NjE0NjkzNDI5OTEw?cjc=3h2jjpj).
 
 # Links
 Game Link (Google Play):
