@@ -51,3 +51,19 @@ User Satisfaction: Feedback from players on the ease of use and utility of the s
 # Conclusion:
 The Business Empire Strategy and Financial System Database will empower players by providing them with the tools to make informed decisions based on data-driven strategies and comprehensive financial insights. With a focus on optimising gameplay and enhancing the overall experience, this project will serve as an essential resource for players, analysts, and developers alike. By leveraging SQL's robust querying capabilities and a user-friendly interface, this project is poised to become a valuable tool in the Business Empire gaming community.
 
+# Community Support
+To Help us out you can download the spreadsheet and sql files and help modify, upgrade and fill in all the tables.
+Once you have created your clones of the documents and modified them re download them as a .zip file and push them as a pull request
+
+# Links
+Game Link (Google Play):
+https://play.google.com/store/apps/details?id=com.ttterbagames.businesssimulator&pcampaignid=web_share
+
+Game Link (App Store):
+https://apps.apple.com/us/app/business-empire-richman/id6451208928
+
+To view full project:
+https://drive.google.com/drive/folders/1YgtBdVC-J6LhZ047tcqfhP7Six1XkP4G?usp=sharing
+
+To read Project Intentions:
+https://docs.google.com/document/d/1AY98cWIwvDMnSIcPlOojQ_05KtktCmVc9MOVAmaFHsM/edit?usp=sharing
